@@ -9,10 +9,11 @@ body {
     background-color: #1C1C1C;
 }
 
-
+    
 .container{
     background-color: #ECFDF5;
-    margin: auto; 
+    margin-left: 750px; 
+    /* margin: auto;  */
     width: 550px;
     height: 550px; 
     padding: 50px;
