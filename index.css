@@ -1,0 +1,132 @@
+body {
+    display: flex;
+    width: 1253px;
+    height: 678px;
+    font-style: normal; 
+    padding: 64px 61px;
+    justify-content: center;
+    align-items: flex-start; 
+    background-color: #1C1C1C;
+}
+
+
+.container{
+    background-color: #ECFDF5;
+    margin: auto; 
+    width: 550px;
+    height: 550px; 
+    padding: 50px;
+    position: relative;
+    flex-shrink: 20px; 
+}
+
+.passwordOneEl{
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 54px;
+    width:  230px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549; 
+}
+
+.passwordTwoEl{
+    display: inline-flex;
+    justify-content: center;
+    margin: 15px;
+    width:  230px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549;
+}
+
+hr {
+    width: 546px; 
+    color: #D5D4D8; 
+    margin-left: 20px; 
+    background: #D5D4D8; 
+}
+
+p{
+    font-family: Inter; 
+    font-style: normal; 
+    font-size: 20px; 
+    font-weight: 400; 
+    line-height: 5px; 
+    color: #6B7280; 
+}
+
+h1{
+    color: #2B283A;
+    line-height: 40px; 
+    font-family: Karla; 
+    font-size: 40px; 
+    font-weight: 10px;
+    font-style: normal; 
+    letter-spacing: -2px; 
+    font-weight: 800; 
+}
+
+button {
+    font-family: Inter; 
+    display: inline-flex;
+    padding: 9px 17px 9px 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    background: #10B981; 
+    border-radius: 6px; 
+    color: #FFFFFF;
+    gap: 12px; 
+}
+
+p {
+    font-family: Inter;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6B7280;
+}
+
+h1 {
+    color: #2B283A;
+    line-height: 40px;
+    font-family: Karla;
+    font-size: 40px;
+    font-weight: 800;
+    font-style: normal;
+    letter-spacing: -2px;
+}
+
+button {
+    font-family: Inter;
+    margin: 20px;
+    padding: 9px 17px 9px 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    background: #10B981;
+    color: #FFFFFF;
+    gap: 12px;
+}
+
+#oneEl{
+    color: #5DEF92;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 5px; 
+}
+
+#twoEl{
+    color: #5DEF92;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 5px; 
+}
